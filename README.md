@@ -1,7 +1,7 @@
 # 💫 About Me:
 Student at Software Engineering on Politeknik Negeri Banyuwangi<br>Front End Developer | Backend Developer
 
-[![](https://visitcount.itsvg.in/api?id=novanrohman&icon=1&color=0)](https://visitcount.itsvg.in)</br>
+[![](https://visitcount.itsvg.in/api?id=novanrohman&label=Profile%20Views&color=6&icon=0&pretty=true)](https://visitcount.itsvg.in)</br>
 
 <!-- ![](https://github-readme-stats.vercel.app/api?username=novanrohman&theme=radical&hide_border=false&include_all_commits=true&count_private=true)</br>-->
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=novanrohman&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact)</br>
