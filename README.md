@@ -1,5 +1,5 @@
 # 💫 About Me:
-Student at Software Engineering on Politeknik Negeri Banyuwangi<br>Front End Developer | Backend Developer
+Student at Software Engineering on Politeknik Negeri Banyuwangi<br>Laravel Developer
 
 [![](https://visitcount.itsvg.in/api?id=novanrohman&label=Profile%20Views&color=6&icon=0&pretty=true)](https://visitcount.itsvg.in)</br>
 
